@@ -3,5 +3,9 @@ public class main {
         System.out.println("Hello Git World!!");
 
         System.out.println("What about now?");
+
+        for(int i=0; i<10; i++){
+            System.out.println(i);
+        }
     }
 }
